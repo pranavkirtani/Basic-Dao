@@ -36,3 +36,6 @@ yarn hardhat accounts
 The tests cover two scenarios 
 - A single participant with 100% of the vote share creating a proposal, voting on and executing the proposal.
 - Adding another participant, issuing them new governance tokens, delegating voting power, creating a proposal and having both participants vote on it and then executing that proposal.
+
+## Article
+For an indepth understanding please refer [my medium](https://pranavkirtani.medium.com/how-to-build-a-dao-decentralized-autonomous-organization-in-solidity-af1cf900d95d) post , you can also share your queries on [Twitter](https://twitter.com/pranavkirtani)
