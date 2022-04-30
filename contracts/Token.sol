@@ -10,7 +10,6 @@ contract MyToken is ERC20, ERC20Permit, ERC20Votes {
         _mint(msg.sender, 1000);
     }
 
-    // The functions below are overrides required by Solidity.
 
     function _afterTokenTransfer(address from, address to, uint256 amount)
         internal
